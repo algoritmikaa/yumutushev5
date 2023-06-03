@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(158, 245, 216);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h1{
+    color: navy;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(75, 2, 2);
+    padding: 4px;
+}
+
+footer p{
+    background-color: white;
+}
+
+nav{
+     background-color: darkgreen;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+.go {
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h2{
+    color: blue;
+}
+
+.rt{
+    border: 3px solid navy;
+    color: blue;
+    padding: 10px;
+    text-decoration: none;
+    
+}
